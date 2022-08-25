@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class Dice {
-    private int numberOfDie;
+    public int numberOfDie;
 
     //N is the number of die in our set. Ex: 2 dice; 3 dice
     //Set is N. However many sets will use for the game

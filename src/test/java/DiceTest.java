@@ -4,7 +4,7 @@ import org.junit.Test;
 public class DiceTest {
 
     @Test
-    void tossAndSum() {
+    public void tossAndSum() {
         // Given N die
         int numberOfDie = 2;
         Dice dice = new Dice(numberOfDie);
